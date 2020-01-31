@@ -1,0 +1,24 @@
+html {
+  max-width: 960px;
+  margin: 0 auto;
+}
+h1, h2 {
+  color: cadetblue;
+  background-color: #D11B48;
+}
+
+footer {
+padding: inherit;
+color: cadetblue;
+background-color: #D11B48;
+}
+footer p {
+  margin-left: 20px;
+}
+a {
+  text-decoration: none;
+  color: #F0BA61;
+  display: inline-block;
+  padding: 15px 20px;
+  font-weight: bold;
+}
